@@ -2,6 +2,7 @@
 
 *.blade.php diff=html
 *.css diff=css
+*.php linguist-language=PHP
 *.html diff=html
 *.md diff=markdown
 *.php linguist-language=PHP
