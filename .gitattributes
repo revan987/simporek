@@ -6,8 +6,7 @@
 *.html diff=html
 *.md diff=markdown
 *.php linguist-language=PHP
-*.js linguist-detectable=false
-*.php linguist-language=PHP
+
 
 /.github export-ignore
 CHANGELOG.md export-ignore
